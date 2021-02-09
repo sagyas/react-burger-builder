@@ -9,5 +9,6 @@ This project was created using `npx create-react-app`.
 This project is using Ajax, Redux, Routing, Authentication and React Hooks.
 
 ## Run
-
-`$ npm start`
+`$ npm install`  
+`$ npm start`  
+Open browser on http://localhost:3000/
