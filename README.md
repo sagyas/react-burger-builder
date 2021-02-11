@@ -1,4 +1,4 @@
-# burger-builder
+# Burger Builder
 
 Web app to build a burger and make an order.  
 Supports mobile view.
@@ -8,7 +8,16 @@ Supports mobile view.
 This React project was created using `npx create-react-app`.  
 This project is using Ajax, Redux, Routing, Authentication and React Hooks.
 
-## Run
-`$ npm install`  
-`$ npm start`  
-Open browser on http://localhost:3000/
+## Installation
+
+1. Clone the repo:  
+   `$ git clone https://github.com/sagyas/burger-builder.git`
+2. Install dependencies:  
+   `$ npm install`
+
+## Usage
+
+1. Run:  
+   `$ npm start`
+2. Open browser on:  
+   http://localhost:3000/
