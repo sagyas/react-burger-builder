@@ -5,7 +5,7 @@ Supports mobile view.
 
 ![alt text](./assets/burger-builder.png 'App')
 
-This React project was created with `npx create-react-app`.  
+This React project was created with `$ npx create-react-app`.  
 This project is using Ajax, Redux, Routing, Authentication and React Hooks.
 
 ## Installation
