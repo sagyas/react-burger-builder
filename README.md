@@ -1,4 +1,4 @@
-# Burger Builder
+# Burger Builder in React
 
 Web app to build a burger and make an order.  
 Supports mobile view.  
